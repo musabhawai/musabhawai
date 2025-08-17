@@ -1,4 +1,7 @@
 <h1>Hi, I'm Musab!</h1>
+<h3> Data Scientist | ML & AI Explorer | Python & SQL 🐍 </h3>
+<h3>Turning data into insights & building practical AI projects 🚀</h3>
+
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
