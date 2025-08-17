@@ -11,20 +11,20 @@
 
 <h2>📂 Machine Learning:</h2>
 
-- <b>[📌Linear Regression](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
-- <b>[📌Multi Linear Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Linear Regression](https://github.com/musabhawai/Linear_Regression)</b>
+- <b>[📌Multi Linear Regression](https://github.com/musabhawai/Multi_Linear_Regression)
 - <b>[📌Regularization](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Polynomial Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Logistic Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Decision Tree](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Ensamble Bagging Boosting](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Random Forest](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Support Vector Machine (SVM)](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Hyperparameter Tuning](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌Naive Bayes](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Polynomial Regression](https://github.com/musabhawai/polynomial_Regression)
+- <b>[📌Logistic Regression](https://github.com/musabhawai/Logistic_Regression)
+- <b>[📌Decision Tree](https://github.com/musabhawai/Decision_tree)
+- <b>[📌Ensamble Bagging Boosting](https://github.com/musabhawai/Ensamble_Bagging_Boosting)
+- <b>[📌Random Forest](https://github.com/musabhawai/Random_Forest)
+- <b>[📌Support Vector Machine (SVM)](https://github.com/musabhawai/SVM)
+- <b>[📌Hyperparameter Tuning](https://github.com/musabhawai/Hyperparameter_Tuning)
+- <b>[📌Naive Bayes](https://github.com/musabhawai/Naive_Bayes)
 - <b>[📌k Nearest Neighbors(KNN)](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 - <b>[📌Principal Component Analysis(PCA)](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- <b>[📌K Means Clustering](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌K Means Clustering](https://github.com/musabhawai/K_Means)
 - <b>[📌Feature Engineering Outlier Detection and Removal](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 
 <h2>📂 Deep Learning:</h2>
