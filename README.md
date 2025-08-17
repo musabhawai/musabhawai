@@ -33,7 +33,8 @@
 - <b>[📌ANN Regression with Keras](https://github.com/musabhawai/ANN_for_Regression)
 - <b>[📌ANN classification with Keras](https://github.com/musabhawai/ANN_for_Classification)
 - <b>[📌CNN classification with Keras](https://github.com/musabhawai/CNN_Classification)
-
+  
+<h2>👨‍💻 Power BI:</h2>
 
 <h2>Certifications</h2>
 
