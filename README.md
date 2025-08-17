@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>[Loan Default Prediction using Artificial Neural Network ANN](https://github.com/musabhawai)</b>
+- <b>[Loan Default Prediction using Artificial Neural Network ANN](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
   
 
  
