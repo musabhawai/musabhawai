@@ -12,8 +12,6 @@
 <h2>📂 Machine Learning:</h2>
 
 - <b>[📌Linear Regression](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
-
-- <b>[📌Multi Linear Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 - <b>[📌Multi Linear Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 - <b>[📌Regularization](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 - <b>[📌Polynomial Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
