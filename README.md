@@ -37,8 +37,10 @@
 - <b>[📌CNN classification with Keras](https://github.com/musabhawai/CNN_Classification)
   
 <h2>📊 Power BI:</h2>
-- <b>[📌Amazon Sales Dashboard using Power BI](https://github.com/musabhawai/Amazon_Sales_dashboard_Power_BI)</b>
-- <b>[📌Credit Card Financial Dashboard using Power BI](https://github.com/musabhawai/Credit_card_Financial_dashboard_Power_BI)</b>
+
+- <b>[📌Amazon Sales Dashboard using Power BI](https://github.com/musabhawai/Amazon_Sales_dashboard_Power_BI)
+ 
+- <b>[📌Credit Card Financial Dashboard using Power BI](https://github.com/musabhawai/Credit_card_Financial_dashboard_Power_BI)
 
 <h2>Certifications</h2>
 
