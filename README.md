@@ -8,7 +8,7 @@
 - <b>[📌Loan Default Prediction using Artificial Neural Network ANN](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
 
 - <b>[📌House Price Prediction using Random Forest Regressor](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-- 
+ 
 - <b>[📌Amazon Sales Dashboard using Power BI](https://github.com/musabhawai/Amazon_Sales_dashboard_Power_BI)</b> 
 
 <h2>🤖 Machine Learning:</h2>
