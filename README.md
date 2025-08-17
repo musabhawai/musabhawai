@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [project1](https://github.com/musabhawai)
+- <b>[Loan Default Prediction using Artificial Neural Network ANN](https://github.com/musabhawai)</b>
+  
 
  
 
