@@ -27,7 +27,13 @@
 - <b>[📌K Means Clustering](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 - <b>[📌Feature Engineering Outlier Detection and Removal](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 
- 
+<h2>📂 Deep Learning:</h2>
+
+- <b>[📌Keras Basics](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
+- <b>[📌ANN Regression with Keras](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌ANN classification with Keras](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌CNN classification with Keras](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+
 
 <h2>Certifications</h2>
 
