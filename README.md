@@ -11,28 +11,28 @@
 
 <h2>📂 Machine Learning:</h2>
 
-- <b>[📌Linear Regression](https://github.com/musabhawai/Linear_Regression)</b>
-- <b>[📌Multi Linear Regression](https://github.com/musabhawai/Multi_Linear_Regression)
-- <b>[📌Regularization](https://github.com/musabhawai/Regularization)
-- <b>[📌Polynomial Regression](https://github.com/musabhawai/polynomial_Regression)
-- <b>[📌Logistic Regression](https://github.com/musabhawai/Logistic_Regression)
-- <b>[📌Decision Tree](https://github.com/musabhawai/Decision_tree)
-- <b>[📌Ensamble Bagging Boosting](https://github.com/musabhawai/Ensamble_Bagging_Boosting)
-- <b>[📌Random Forest](https://github.com/musabhawai/Random_Forest)
-- <b>[📌Support Vector Machine (SVM)](https://github.com/musabhawai/SVM)
-- <b>[📌Hyperparameter Tuning](https://github.com/musabhawai/Hyperparameter_Tuning)
-- <b>[📌Naive Bayes](https://github.com/musabhawai/Naive_Bayes)
-- <b>[📌k Nearest Neighbors(KNN)](https://github.com/musabhawai/KNN)
-- <b>[📌Principal Component Analysis(PCA)](https://github.com/musabhawai/PCA)
-- <b>[📌K Means Clustering](https://github.com/musabhawai/K_Means)
-- <b>[📌Feature Engineering Outlier Detection and Removal](https://github.com/musabhawai/Feature_Engineering_outlier_detection_and_removal)
+- <b>[⚡Linear Regression](https://github.com/musabhawai/Linear_Regression)</b>
+- <b>[⚡Multi Linear Regression](https://github.com/musabhawai/Multi_Linear_Regression)
+- <b>[⚡Regularization](https://github.com/musabhawai/Regularization)
+- <b>[⚡Polynomial Regression](https://github.com/musabhawai/polynomial_Regression)
+- <b>[⚡Logistic Regression](https://github.com/musabhawai/Logistic_Regression)
+- <b>[⚡Decision Tree](https://github.com/musabhawai/Decision_tree)
+- <b>[⚡Ensamble Bagging Boosting](https://github.com/musabhawai/Ensamble_Bagging_Boosting)
+- <b>[⚡Random Forest](https://github.com/musabhawai/Random_Forest)
+- <b>[⚡Support Vector Machine (SVM)](https://github.com/musabhawai/SVM)
+- <b>[⚡Hyperparameter Tuning](https://github.com/musabhawai/Hyperparameter_Tuning)
+- <b>[⚡Naive Bayes](https://github.com/musabhawai/Naive_Bayes)
+- <b>[⚡k Nearest Neighbors(KNN)](https://github.com/musabhawai/KNN)
+- <b>[⚡Principal Component Analysis(PCA)](https://github.com/musabhawai/PCA)
+- <b>[⚡K Means Clustering](https://github.com/musabhawai/K_Means)
+- <b>[⚡Feature Engineering Outlier Detection and Removal](https://github.com/musabhawai/Feature_Engineering_outlier_detection_and_removal)
 
 <h2>📂 Deep Learning:</h2>
 
-- <b>[📌Keras Basics](https://github.com/musabhawai/Keras_Basics)</b>
-- <b>[📌ANN Regression with Keras](https://github.com/musabhawai/ANN_for_Regression)
-- <b>[📌ANN classification with Keras](https://github.com/musabhawai/ANN_for_Classification)
-- <b>[📌CNN classification with Keras](https://github.com/musabhawai/CNN_Classification)
+- <b>[⚡Keras Basics](https://github.com/musabhawai/Keras_Basics)</b>
+- <b>[⚡ANN Regression with Keras](https://github.com/musabhawai/ANN_for_Regression)
+- <b>[⚡ANN classification with Keras](https://github.com/musabhawai/ANN_for_Classification)
+- <b>[⚡CNN classification with Keras](https://github.com/musabhawai/CNN_Classification)
 
 
 <h2>Certifications</h2>
