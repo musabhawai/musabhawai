@@ -52,8 +52,8 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.linkedin.com/in/musab-hawai-21a5802a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-[linkedin]: https://www.instagram.com/musab_hawai?igsh=YWdwNWtuYTRjd2Ru&utm_source=qr
+[instagram]: https://www.instagram.com/musab_hawai?igsh=YWdwNWtuYTRjd2Ru&utm_source=qr
+[linkedin]: https://www.linkedin.com/in/musab-hawai-21a5802a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
