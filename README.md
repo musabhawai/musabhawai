@@ -9,12 +9,25 @@
 
 - <b>[📌House Price Prediction using Random Forest Regressor](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 
-<h2> Machine Learning:</h2>
+<h2>📂 Machine Learning:</h2>
 
-- <b>[📌Loan Default Prediction using Artificial Neural Network ANN](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
+- <b>[📌Linear Regression](https://github.com/musabhawai/Loan_Default_Prediction_using_Artificial_Neural_Network_ANN)</b>
 
-- <b>[📌House Price Prediction using Random Forest Regressor](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
-  
+- <b>[📌Multi Linear Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Multi Linear Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Regularization](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Polynomial Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Logistic Regression](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Decision Tree](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Ensamble Bagging Boosting](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Random Forest](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Support Vector Machine (SVM)](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Hyperparameter Tuning](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Naive Bayes](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌k Nearest Neighbors(KNN)](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Principal Component Analysis(PCA)](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌K Means Clustering](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
+- <b>[📌Feature Engineering Outlier Detection and Removal](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
 
  
 
