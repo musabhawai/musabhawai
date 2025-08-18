@@ -9,7 +9,9 @@
 
 - <b>[🏡House Price Prediction using Random Forest Regressor](https://github.com/musabhawai/House_Price_Prediction_using_Random_forest_Regressor)
  
-- <b>[🛒Amazon Sales Dashboard using Power BI](https://github.com/musabhawai/Amazon_Sales_dashboard_Power_BI)</b> 
+- <b>[🛒Amazon Sales Dashboard using Power BI](https://github.com/musabhawai/Amazon_Sales_dashboard_Power_BI)</b>
+
+- <b>[Bookstore_Sales_and_Inventory_Analysis_SQL](https://github.com/musabhawai/Bookstore_Sales_and_Inventory_Analysis_SQL)
 
 <h2>🤖 Machine Learning:</h2>
 
