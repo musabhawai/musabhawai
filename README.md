@@ -44,9 +44,6 @@
  
 - <b>[📌Credit Card Financial Dashboard using Power BI](https://github.com/musabhawai/Credit_card_Financial_dashboard_Power_BI)
 
-<h2>Certifications</h2>
-
-- [Certifications...](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
