@@ -1,5 +1,12 @@
 <h1>Hi, I'm Musab!</h1>
-<h3> Aspiring Data Scientist | ML & AI Explorer </h3>
+<h3> Aspiring Data Scientist | ML & AI Enthusiast | Python, SQL & Power BI </h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
 
 
 
