@@ -11,7 +11,7 @@
  
 - <b>[🛒Amazon Sales Dashboard using Power BI](https://github.com/musabhawai/Amazon_Sales_dashboard_Power_BI)</b>
 
-- <b>[Bookstore_Sales_and_Inventory_Analysis_SQL](https://github.com/musabhawai/Bookstore_Sales_and_Inventory_Analysis_SQL)</b>
+- <b>[📚Bookstore_Sales_and_Inventory_Analysis_SQL](https://github.com/musabhawai/Bookstore_Sales_and_Inventory_Analysis_SQL)</b>
 
 <h2>🤖 Machine Learning:</h2>
 
